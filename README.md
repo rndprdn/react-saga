@@ -1,14 +1,19 @@
 # React-Saga
 
-A simple application of learning result redux-saga
+A simple application of learning result redux-saga,
+with unsplash for image and reqres for dummy account
+
+fake account login :
+```sh
+email : eve.holt@reqres.in
+password : cityslicka
+```
 
 ### Installation
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start the server.
 
-```sh
-$ Clone project
-$ Run `npm install`
-$ Run `npm start`
-$ Open localhost:3000 in browser
-```
+- Clone project
+- Run `npm install`
+- Run `npm start`
+- Open `localhost:3000` in browser
