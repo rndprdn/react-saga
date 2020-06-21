@@ -1,6 +1,7 @@
 # React-Saga
 
-A simple application of learning result redux-saga
+A simple application of learning result redux-saga,
+
 with unsplash for image and reqres for dummy account
 
 fake account login :
