@@ -13,7 +13,7 @@ password : cityslicka
 
 Install the dependencies start the server.
 
-$ Clone project
-$ Run `npm install`
-$ Run `npm start`
-$ Open `localhost:3000` in browser
+- Clone project
+- Run `npm install`
+- Run `npm start`
+- Open `localhost:3000` in browser
