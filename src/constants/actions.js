@@ -1,0 +1,8 @@
+const actions = {
+  GET_PHOTOS: 'GET_PHOTOS',
+  PHOTOS_RECEIVED: 'PHOTOS_RECEIVED',
+  LOGIN_REQUEST: 'LOGIN_REQUEST',
+  LOGIN_SUCCESS: 'LOGIN_SUCCESS'
+}
+
+export default actions;
