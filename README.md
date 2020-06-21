@@ -11,7 +11,7 @@ password : cityslicka
 
 ### Installation
 
-Install the dependencies start the server.
+Install the dependencies and start the server.
 
 - Clone project
 - Run `npm install`
